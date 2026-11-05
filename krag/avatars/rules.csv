@@ -1,0 +1,11 @@
+condition,file
+weather_warning,window_storm.png
+family_birthday_or_nameday,flowers.png
+public_holiday,holiday.png
+snow,snow_hat.png
+temperature_below_3,scarf.png
+fog,scarf_fog.png
+rain,umbrella.png
+air_poor_or_worse,tea_indoors.png
+sunny_above_15,bench_sun.png
+else,tea.png

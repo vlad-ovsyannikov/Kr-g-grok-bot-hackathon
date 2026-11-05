@@ -1,0 +1,25 @@
+{
+  "query": "DemoTablet",
+  "url": "https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/search/public?name=DemoTablet&page=0&size=20",
+  "source": "Rejestr Produktów Leczniczych (public search)",
+  "result": {
+    "content": [],
+    "pageable": {
+      "pageNumber": 0,
+      "pageSize": 20,
+      "sort": [],
+      "offset": 0,
+      "unpaged": false,
+      "paged": true
+    },
+    "totalPages": 0,
+    "totalElements": 0,
+    "last": true,
+    "numberOfElements": 0,
+    "first": true,
+    "sort": [],
+    "number": 0,
+    "size": 20,
+    "empty": true
+  }
+}

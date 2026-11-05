@@ -1,0 +1,42 @@
+{
+  "note": "Wrocław stations sorted by distance to 51.11,17.03",
+  "chosen_station_id": 117,
+  "chosen_station_name": "Wrocław, wyb. Conrada-Korzeniowskiego",
+  "ranked": [
+    {
+      "id": 117,
+      "name": "Wrocław, wyb. Conrada-Korzeniowskiego",
+      "lat": 51.129378,
+      "lon": 17.02925,
+      "km": 2.15
+    },
+    {
+      "id": 115,
+      "name": "Wrocław, ul. Na Grobli",
+      "lat": 51.103456,
+      "lon": 17.059225,
+      "km": 2.16
+    },
+    {
+      "id": 129,
+      "name": "Wrocław, Al. Wiśniowa",
+      "lat": 51.086225,
+      "lon": 17.012689,
+      "km": 2.9
+    },
+    {
+      "id": 122,
+      "name": "Wrocław, ul. Orzechowa",
+      "lat": 51.077525,
+      "lon": 17.042817,
+      "km": 3.71
+    },
+    {
+      "id": 114,
+      "name": "Wrocław, ul. Bartnicza",
+      "lat": 51.115933,
+      "lon": 17.141125,
+      "km": 7.77
+    }
+  ]
+}

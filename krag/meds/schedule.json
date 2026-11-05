@@ -1,0 +1,22 @@
+{
+  "medicines": [
+    {
+      "name": "DemoTablet",
+      "appearance": "biała",
+      "amount": "jedna",
+      "amount_note": "Exactly as on the mock prescription: one tablet. Never invent dosing advice beyond this mock schedule.",
+      "times": [
+        "09:00",
+        "19:00"
+      ],
+      "time_slots": [
+        "morning",
+        "evening"
+      ],
+      "entered_by": "Ania",
+      "confirmed_by": "Marek",
+      "fictional": true,
+      "note": "Invented demo medicine only. Not a real person's data."
+    }
+  ]
+}

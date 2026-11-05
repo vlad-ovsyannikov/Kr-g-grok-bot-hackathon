@@ -1,0 +1,14 @@
+{
+  "group": {
+    "name": "Zespół Krąg",
+    "id": "b32acef2-fe39-42d7-89de-28c768519f42"
+  },
+  "bots": {
+    "Krąg": "d5d79d0e-4f16-46a5-a116-bf4104ea335e",
+    "Informator": "633f3fa0-0b65-4fdc-864b-ed680a5f03a4",
+    "Rodzina": "96d5b2aa-bf20-4954-af36-fcd269aa8f3e",
+    "Kronika": "fc4bf2cc-50c4-446b-a0ad-1076ea1b16d1",
+    "Apteczka": "a5bcf942-d2b1-4eae-b9eb-4f8da2866317",
+    "Strażnik": "07de222b-1152-41c1-9996-0a47bbc81418"
+  }
+}
