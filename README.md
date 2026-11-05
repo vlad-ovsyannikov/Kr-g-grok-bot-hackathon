@@ -10,6 +10,8 @@ Krąg is a companion, not only a reminder. After a first meeting it learns how s
 
 **Multiplayer AI / Multi-agent Systems track**
 
+**[View the live pitch deck](https://vlad-ovsyannikov.github.io/Kr-g-grok-bot-hackathon/pitch/krag-pitch.html)** — hosted on GitHub Pages.
+
 [Open the 1-minute pitch](pitch/krag-pitch.html) — a self-contained HTML presentation (six slides, keyboard/touch navigation, fullscreen support, optional 60s autoplay).
 
 A PowerPoint version is also available: [krag-pitch.pptx](pitch/krag-pitch.pptx)
