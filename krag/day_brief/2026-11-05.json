@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-05",
+  "written_at": "2026-11-05T20:20:19+01:00",
+  "timezone": "Europe/Warsaw",
+  "temperature": 2.3,
+  "sky": "mgła",
+  "warning": "Gęsta mgła (stopień 1) od 2026-11-05 16:00 do 2026-11-06 11:00; widzialność miejscami poniżej 200 m",
+  "air": "dobry",
+  "forecast_tomorrow": "Jutro od 0,4 do 5,8°C, mżawka, bez opadów.",
+  "avatar": "window_storm.png",
+  "appointments": [
+    {
+      "booked_date": "2026-11-12",
+      "booked_time": "10:30",
+      "specialty": "ortopeda",
+      "benefit": "ŚWIADCZENIA Z ZAKRESU ORTOPEDII I TRAUMATOLOGII NARZĄDU RUCHU",
+      "clinic": "SPECJALISTYCZNA PORADNIA CHIRURGII URAZOWEJ I ORTOPEDII — PORADNIA CHIRURGII URAZOWO-ORTOPEDYCZNEJ, Ziemowita 1/9/115/116",
+      "first_free_date": "2026-11-14",
+      "first_free_listed": "12 dni",
+      "first_free_as_at": "2026-11-02",
+      "first_free_date_note": "computed from listed wait of 12 dni after date-situation-as-at 2026-11-02; API returned a wait, not a calendar date",
+      "earlier_than_booked": false,
+      "driver": "Marek",
+      "visit_day_today": false
+    }
+  ],
+  "sources": {
+    "temperature": "IMGW synop station 12424, measurement 2026-11-05 hour 19",
+    "sky": "IMGW warning Gęsta mgła for Wrocław (teryt 0264); Open-Meteo daily weather_code 45 (fog) for 2026-11-05",
+    "warning": "IMGW warningsmeteo id Po20261105102757274",
+    "air": "GIOS aqindex station 117 Wrocław, wyb. Conrada-Korzeniowskiego, category Dobry, computed 2026-11-05 20:10:30",
+    "forecast_tomorrow": "Open-Meteo daily for 2026-11-06: weather_code 51, temperature_2m_min 0.4, temperature_2m_max 5.8, precipitation_sum 0.00",
+    "avatar": "avatars/rules.csv first match: weather_warning -> window_storm.png",
+    "appointments": "NFZ app-itl-api-pcus/queues case=1 province=01 locality=Wrocław benefit=ŚWIADCZENIA Z ZAKRESU ORTOPEDII I TRAUMATOLOGII NARZĄDU RUCHU, first result sorted by wait"
+  },
+  "notes": [
+    "Pollen not high (Open-Meteo all species 0.0); omitted.",
+    "Not a visit day and Marek is driving; no tram departures added.",
+    "circle.json benefit PORADNIA ORTOPEDYCZNA returned 0 NFZ queues; after /benefits?name=ORTOPED used official name ŚWIADCZENIA Z ZAKRESU ORTOPEDII I TRAUMATOLOGII NARZĄDU RUCHU.",
+    "IMGW synop URL /api/data/synop/station/12424 returned 404; used /api/data/synop and selected station 12424."
+  ]
+}

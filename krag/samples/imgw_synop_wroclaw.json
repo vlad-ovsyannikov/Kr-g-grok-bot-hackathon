@@ -1,0 +1,12 @@
+{
+  "id_stacji": "12424",
+  "stacja": "Wrocław",
+  "data_pomiaru": "2026-11-05",
+  "godzina_pomiaru": "19",
+  "temperatura": "2.3",
+  "predkosc_wiatru": "0",
+  "kierunek_wiatru": "0",
+  "wilgotnosc_wzgledna": "97.9",
+  "suma_opadu": "0.01",
+  "cisnienie": "1031.2"
+}

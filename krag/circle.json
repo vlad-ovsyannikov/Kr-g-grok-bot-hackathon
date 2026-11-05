@@ -1,0 +1,105 @@
+{
+  "parent": {
+    "name": "Pani Halina",
+    "given_name": "Halina",
+    "age": 78,
+    "lives_alone": true,
+    "district": "Krzyki",
+    "city": "Wrocław",
+    "country": "PL",
+    "formal_address": true,
+    "language": "pl",
+    "timezone": "Europe/Warsaw",
+    "consent": true,
+    "note": "Invented demo parent. No real health data."
+  },
+  "relatives": [
+    {
+      "name": "Ania",
+      "relation": "daughter",
+      "city": "Wrocław",
+      "email": "ania.demo@example.com",
+      "phone": "+48 000 000 001",
+      "email_placeholder": true,
+      "phone_placeholder": true,
+      "placeholder_note": "PLACEHOLDER — replace with hackathon team address/phone before any send test",
+      "rota_position": 1,
+      "on_call_rota": true,
+      "quiet_hours": {
+        "start": "21:00",
+        "end": "08:00",
+        "timezone": "Europe/Warsaw"
+      },
+      "consent": true
+    },
+    {
+      "name": "Marek",
+      "relation": "son",
+      "city": "Berlin",
+      "email": "marek.demo@example.com",
+      "phone": "+48 000 000 002",
+      "email_placeholder": true,
+      "phone_placeholder": true,
+      "placeholder_note": "PLACEHOLDER — replace with hackathon team address/phone before any send test",
+      "rota_position": 2,
+      "on_call_rota": true,
+      "quiet_hours": {
+        "start": "21:00",
+        "end": "08:00",
+        "timezone": "Europe/Warsaw"
+      },
+      "consent": true
+    },
+    {
+      "name": "Zosia",
+      "relation": "granddaughter",
+      "parent": "Ania",
+      "on_call_rota": false,
+      "consent": true,
+      "note": "Not on the call rota; may send photos."
+    },
+    {
+      "name": "Kuba",
+      "relation": "grandson",
+      "on_call_rota": false,
+      "consent": true,
+      "note": "Not on the call rota; may send photos."
+    }
+  ],
+  "appointments": [
+    {
+      "date": "2026-11-12",
+      "time": "10:30",
+      "weekday": "Thursday",
+      "specialty": "ortopeda",
+      "benefit_name": "PORADNIA ORTOPEDYCZNA",
+      "benefit_name_note": "NFZ benefit string to refine once queue search params are confirmed; sample saved with province/locality only",
+      "province": "01",
+      "locality": "Wrocław",
+      "case": 1,
+      "clinic_city": "Wrocław",
+      "driver": "Marek",
+      "nfz_fields_for_informator": {
+        "case": 1,
+        "province": "01",
+        "locality": "Wrocław",
+        "benefit": "PORADNIA ORTOPEDYCZNA"
+      }
+    }
+  ],
+  "transit": {
+    "home_stop": "Krzyki",
+    "clinic_stop": "",
+    "clinic_stop_note": "To be filled when GTFS is added",
+    "example_tram_line": "7"
+  },
+  "consent": {
+    "parent": true,
+    "relatives_require_individual_consent": true
+  },
+  "family_contact": {
+    "mode": "simulate",
+    "set_on": "2026-11-05",
+    "note": "Owner asked to keep placeholder emails and phones and simulate family sends. Do not email or text."
+  }
+}

@@ -1,0 +1,4 @@
+Tried GET https://apinfz.nfz.gov.pl/app-itl-api-pcus/queues?case=1&province=01&locality=Wrocław&benefit=PORADNIA%20ORTOPEDYCZNA&limit=5
+HTTP 200, meta.count=0 (no rows for that benefit string).
+Kept successful broader sample as nfz_queues.json (case=1, province=01, locality=Wrocław, count=1907).
+Benefit parameter name/value for orthopedics still needs discovery from NFZ schema/docs.

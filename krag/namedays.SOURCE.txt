@@ -1,0 +1,1 @@
+Polish name days aggregated from https://github.com/jancajthaml/polish-name-days (name-days.csv, Name,DD.MM). Freely usable CSV of traditional Polish name days. Generated 2026-11-05 for Krąg demo. Names joined with spaces per date (MM-DD).

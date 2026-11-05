@@ -1,0 +1,31 @@
+date,weather_line,air_level,her_answer,photo_file,memory_answer,special_event
+2026-10-07,"pierwszy poranek, chłodno i pogodnie",dobry,yes,zosia_przedszkole.jpg,Do szkoły szłam przez pole; zimą mama dawała mi cieplejszy szalik.,day1_first_greeting_zosia_photo_first_memory
+2026-10-08,"lekkie słońce, 9 stopni",dobry,yes,photo_day02.jpg,stub: pierwsza praca,
+2026-10-09,"deszcz, 5 stopni",dobry,yes,photo_day03.jpg,stub: niedzielny obiad,
+2026-10-10,"mgła, 4 stopnie",dobry,yes,photo_day04.jpg,stub: muzyka młodości,
+2026-10-11,"wiatr, 6 stopni",dobry,yes,photo_day05.jpg,stub: przyjaciółka z dzieciństwa,
+2026-10-12,"pochmurno, 8 stopni",umiarkowany,yes,ania_ogrod.jpg,stub: niedzielny obiad — rosół i schabowy,day6_marek_reaction_read_back
+2026-10-13,"pochmurno, 7 stopni",dobry,yes,photo_day07.jpg,stub: najlepsze lato,
+2026-10-14,"lekkie słońce, 9 stopni",dobry,yes,photo_day08.jpg,stub: nauka od mamy,
+2026-10-15,"deszcz, 6 stopni",dobry,none,,,day9_no_answer_nudge_ania_no_reply_marek_calling
+2026-10-16,"mgła, 4 stopnie",dobry,yes,photo_day10.jpg,stub: imieniny w domu,
+2026-10-17,"wiatr, 6 stopni",dobry,yes,photo_day11.jpg,stub: duma w pracy,
+2026-10-18,"pogodnie, 10 stopni",dobry,yes,photo_day12.jpg,stub: potrawa która wychodzi,
+2026-10-19,"pochmurno, 7 stopni",dobry,yes,photo_day13.jpg,stub: droga do szkoły,
+2026-10-20,ostrzeżenie: silny wiatr,umiarkowany,yes,kuba_park.jpg,stub: pierwsza praca w sklepie na parterze,day14_advice_draft_blocked_by_straznik
+2026-10-21,"deszcz, 5 stopni",dobry,yes,photo_day15.jpg,stub: niedzielny obiad,
+2026-10-22,"mgła, 4 stopnie",dobry,yes,photo_day16.jpg,stub: muzyka młodości,
+2026-10-23,"mgła, 3 stopnie",słaby,yes,marek_berlin.jpg,stub: muzyka z radia w kuchni,day17_6_tablets_refill_marek_arranges
+2026-10-24,"pogodnie, 10 stopni",dobry,yes,photo_day18.jpg,stub: pierwsze mieszkanie,
+2026-10-25,"pochmurno, 7 stopni",dobry,yes,photo_day19.jpg,stub: najlepsze lato,
+2026-10-26,"lekkie słońce, 9 stopni",dobry,yes,photo_day20.jpg,stub: nauka od mamy,
+2026-10-27,"słońce, 12 stopni",dobry,yes,zosia_rysunek.jpg,stub: najlepsze lato nad morzem,day21_earlier_clinic_date_ania_rings
+2026-10-28,"mgła, 4 stopnie",dobry,yes,photo_day22.jpg,stub: imieniny w domu,
+2026-10-29,"wiatr, 6 stopni",dobry,yes,photo_day23.jpg,stub: duma w pracy,
+2026-10-30,"pogodnie, 10 stopni",dobry,yes,photo_day24.jpg,stub: potrawa która wychodzi,
+2026-10-31,"pochmurno, 7 stopni",dobry,yes,photo_day25.jpg,stub: droga do szkoły,
+2026-11-01,"lekkie słońce, 9 stopni",dobry,yes,photo_day26.jpg,stub: pierwsza praca,
+2026-11-02,"deszcz, 5 stopni",dobry,yes,photo_day27.jpg,stub: niedzielny obiad,
+2026-11-03,"mgła, 4 stopnie",dobry,yes,photo_day28.jpg,stub: muzyka młodości,
+2026-11-04,"wiatr, 6 stopni",dobry,yes,photo_day29.jpg,stub: przyjaciółka z dzieciństwa,
+2026-11-05,2 stopnie i mgła,umiarkowany,yes,rodzina_spacer.jpg,stub: ostatnie pytanie miesiąca,day30_memoir_page
