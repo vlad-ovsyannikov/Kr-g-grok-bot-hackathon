@@ -6,6 +6,16 @@ This is a prototype of the experience, not an alarm or a medical service. The de
 
 Krąg is a companion, not only a reminder. After a first meeting it learns how she likes to be addressed, who is close, and what she enjoys talking about, then carries those threads into later conversations — weather, a name day, a memory she left — the way a real person would.
 
+## Hackathon Pitch
+
+**Multiplayer AI / Multi-agent Systems track**
+
+[Open the 1-minute pitch](pitch/krag-pitch.html) — a self-contained HTML presentation (six slides, keyboard/touch navigation, fullscreen support, optional 60s autoplay).
+
+A PowerPoint version is also available: [krag-pitch.pptx](pitch/krag-pitch.pptx)
+
+![Pitch deck contact sheet](pitch/contact.jpg)
+
 ## First meeting
 
 An unhurried voice visit in the Krąg 1:1 chat (taps are only a backup). See [`krag/first-meeting/session.md`](krag/first-meeting/session.md).
@@ -19,9 +29,9 @@ An unhurried voice visit in the Krąg 1:1 chat (taps are only a backup). See [`k
 
 - A conversation partner for weather, light local news, name days, and whatever she wants to talk about
 - A living portrait so later chats have story and context
-- A morning check-in with real weather and air (no invented figures), today’s name day, and a tablet prompt
+- A morning check-in with real weather and air (no invented figures), today's name day, and a tablet prompt
 - A morning picture that changes with the weather
-- Simple taps or her own words: she’s well, she took the tablet, or she wants a call
+- Simple taps or her own words: she's well, she took the tablet, or she wants a call
 - A family photo after she answers (the photo behind the tap)
 - One memory question a day, then a memoir built from her answers — no invented details
 - Tablet reminders at her times, described only as on the mock prescription (for the demo: biała, jedna, at 09:00 and 19:00)
@@ -31,7 +41,7 @@ An unhurried voice visit in the Krąg 1:1 chat (taps are only a backup). See [`k
 
 Family contact is simulated in this demo (placeholder emails and phones; nothing is emailed or texted).
 
-- A request that a named relative call when she doesn’t answer or asks for one (Ania first, then Marek; quiet hours 21:00–08:00 Europe/Warsaw)
+- A request that a named relative call when she doesn't answer or asks for one (Ania first, then Marek; quiet hours 21:00–08:00 Europe/Warsaw)
 - A way to send photos and short words back to her
 - A refill note when stock is running low (20 tablets counted 5 November, last day 14 November)
 
