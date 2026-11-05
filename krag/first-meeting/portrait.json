@@ -1,0 +1,23 @@
+{
+  "parent_name": "Pani Halina",
+  "address_as": "Pani Halino",
+  "address_as_confirmed": false,
+  "language": "pl",
+  "voice_ok": true,
+  "close_people": [
+    {"name": "Ania", "relation": "daughter", "city": "Wrocław", "call_order": 1},
+    {"name": "Marek", "relation": "son", "city": "Berlin", "call_order": 2},
+    {"name": "Zosia", "relation": "granddaughter", "call_order": null},
+    {"name": "Kuba", "relation": "grandson", "call_order": null}
+  ],
+  "call_first": "Ania",
+  "call_first_confirmed": false,
+  "tablet_morning": "09:00",
+  "tablet_evening": "19:00",
+  "tablet_times_confirmed": false,
+  "enjoys_talking_about": [],
+  "do_not_ask": [],
+  "unfinished_threads": [],
+  "first_meeting_completed": false,
+  "notes": "Invented demo parent. Prefill from circle.json; confirm during the first meeting. Never invent details she did not say."
+}
